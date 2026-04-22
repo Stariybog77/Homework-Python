@@ -36,7 +36,7 @@
 
 lab4/screenshots/
 
-![result](lab4/screenshots/task.png)
+![result](screenshots/task.png)
 
 ---
 
