@@ -57,13 +57,13 @@
 lab7/screenshots/
 
 ### 1. Графический интерфейс программы
-![gui](lab7/screenshots/gui.png)
+![gui](screenshots/gui.png)
 
 ### 2. Результат расчёта (пример: квартира)
-![apartment](lab7/screenshots/apartment.png)
+![apartment](screenshots/apartment.png)
 
 ### 3. Сохранённый файл отчёта
-![doc](lab7/screenshots/doc.png)
+![doc](screenshots/doc.png)
 
 ---
 
