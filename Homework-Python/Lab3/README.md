@@ -52,7 +52,7 @@ b₁ = 1
 
 lab3/screenshots/
 
-![result](lab3/screenshots/task.png)
+![result](screenshots/task.png)
 
 ---
 
