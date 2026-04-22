@@ -43,13 +43,13 @@
 lab6/screenshots/
 
 ### 1. Графический интерфейс программы
-![gui](lab6/screenshots/gui.png)
+![gui](screenshots/gui.png)
 
 ### 2. Результат вычислений
-![result](lab6/screenshots/result.png)
+![result](screenshots/result.png)
 
 ### 3. Сохранённый файл отчёта
-![file](lab6/screenshots/file.png)
+![file](screenshots/file.png)
 
 ---
 
