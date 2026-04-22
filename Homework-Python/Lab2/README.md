@@ -39,7 +39,7 @@
 Скриншоты находятся в папке:
 lab2/screenshots/
 
-![task](lab2/screenshots/task.png)  
+![task](screenshots/task.png)  
 
 
 ---
