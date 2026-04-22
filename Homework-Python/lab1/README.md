@@ -90,17 +90,17 @@ git status
 Скриншоты находятся в папке:
 lab1/screenshots/
 
-![task1](lab1/screenshots/task1.png)
-![task2](lab1/screenshots/task2.png)
-![task3](lab1/screenshots/task3.png)
-![task4](lab1/screenshots/task4.png)
-![task5](lab1/screenshots/task5.png)
-![task6](lab1/screenshots/task6.png)
-![task7](lab1/screenshots/task7.png)
-![task8](lab1/screenshots/task8.png)
-![task9](lab1/screenshots/task9.png)
-![task10](lab1/screenshots/task10.png)
-![task11](lab1/screenshots/task11.png)
+![task1](screenshots/task1.png)
+![task2](screenshots/task2.png)
+![task3](screenshots/task3.png)
+![task4](screenshots/task4.png)
+![task5](screenshots/task5.png)
+![task6](screenshots/task6.png)
+![task7](screenshots/task7.png)
+![task8](screenshots/task8.png)
+![task9](screenshots/task9.png)
+![task10](screenshots/task10.png)
+![task11](screenshots/task11.png)
 
 ## Используемые материалы
 
